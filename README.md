@@ -8,4 +8,4 @@ This project was to explore latent profiles of psychological resiliece and evalu
 
 
 
-Please note that this research project has not been published yet. Data, results, and figures are not uploaded here.
+Please note that this research project has not been published yet. Data, results, and figures are not uploaded.
