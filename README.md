@@ -8,4 +8,4 @@ This project is to explore latent profiles of a personality trait and evaluate t
 
 
 
-Please note that this research project has not been published yet. Data, results, and figures are not uploaded.
+Please note that as this research project has not been published yet, raw data and findings are not uploaded here.
